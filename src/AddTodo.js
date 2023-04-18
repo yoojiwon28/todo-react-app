@@ -40,8 +40,8 @@ class AddTodo extends React.Component {
                     <Grid xs={1} md={1} item>   
                      <Button
                      fullWidth
-color="secondary"
-variant="outlined"
+                     color="secondary"
+                     variant="outlined"
                      onClick={this.onButtonClick}
                      >
                          +
